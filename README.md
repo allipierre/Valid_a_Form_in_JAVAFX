@@ -2,4 +2,4 @@
 Valid a Form in JAVAFX and Twitter binding
 
 
-![alt tag](http://a401.idata.over-blog.com/2/25/98/74/01-juin-2012/imag-mecque-islam.png)
+![alt tag](http://www2.inf.h-brs.de/~ayotti2s/Bilder/Test.gif)
